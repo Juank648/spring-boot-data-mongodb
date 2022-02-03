@@ -86,7 +86,7 @@ If you haven't created your MongoDB Cluster follow part 1 - 4:
       
          Date createdAt;
       
-         public UserDocument()
+         public User()
          {
          }
       }
