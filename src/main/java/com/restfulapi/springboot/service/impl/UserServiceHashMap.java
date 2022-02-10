@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@Service
+
 public class UserServiceHashMap implements UserService {
 
     public HashMap <String, User> UserMap = new HashMap <String, User>();
